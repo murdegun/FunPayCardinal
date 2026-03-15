@@ -1,0 +1,183 @@
+[15.03.26 20:46:49][main.py][84]> D: ------------------------------------------------------------------
+[15.03.26 20:50:24][main.py][84]> D: ------------------------------------------------------------------
+[15.03.26 20:53:11][main.py][84]> D: ------------------------------------------------------------------
+[15.03.26 20:59:01][main.py][84]> D: ------------------------------------------------------------------
+[15.03.26 20:59:01][main.py][113]> I: Загружаю конфиг _main.cfg...
+[15.03.26 20:59:01][main.py][118]> I: Загружаю конфиг auto_response.cfg...
+[15.03.26 20:59:01][main.py][122]> I: Загружаю конфиг auto_delivery.cfg...
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из handlers.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из announcements.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][806]> I: Плагины не обнаружены.
+[15.03.26 20:59:01][bot.py][1253]> I: Telegram бот инициализирован.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.authorized_users_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.proxy_cp.py зарегистрированы.
+[15.03.26 20:59:01][cardinal.py][850]> I: Хэндлеры из tg_bot.default_cp.py зарегистрированы.
+[15.03.26 20:59:05][bot.py][1263]> I: Telegram бот @Funpay73928_bot запущен.
+[15.03.26 20:59:05][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:05][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:05][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:09][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:09][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:09][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:11][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:11][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:11][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:15][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:15][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:15][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:18][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:18][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:18][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:21][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:21][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:21][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:24][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:24][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:24][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:26][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:26][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:26][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:30][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:30][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:30][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:33][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:33][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:33][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:35][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:35][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:35][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:38][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:38][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:38][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:41][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:41][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:41][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:45][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:45][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:45][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:48][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:48][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:48][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:51][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:51][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:51][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:54][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:54][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:54][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 20:59:57][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:57][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 20:59:57][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:00][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:00][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:00][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:03][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:03][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:03][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:06][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:06][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:06][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:08][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:08][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:08][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:11][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:11][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:11][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:14][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:14][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:14][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:17][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:17][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:17][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:19][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:19][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:19][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:22][cardinal.py][227]> E: Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:22][cardinal.py][228]> D: TRACEBACK Не авторизирован (возможно, введен неверный golden_key?).
+[15.03.26 21:00:22][cardinal.py][232]> W: Повторю попытку через 2 секунд(-у/-ы)...
+[15.03.26 21:00:23][main.py][147]> I: Завершаю программу...
+[15.03.26 21:01:26][main.py][84]> D: ------------------------------------------------------------------
+[15.03.26 21:01:26][main.py][113]> I: Загружаю конфиг _main.cfg...
+[15.03.26 21:01:26][main.py][118]> I: Загружаю конфиг auto_response.cfg...
+[15.03.26 21:01:26][main.py][122]> I: Загружаю конфиг auto_delivery.cfg...
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из handlers.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из announcements.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][806]> I: Плагины не обнаружены.
+[15.03.26 21:01:26][bot.py][1253]> I: Telegram бот инициализирован.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.authorized_users_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.proxy_cp.py зарегистрированы.
+[15.03.26 21:01:26][cardinal.py][850]> I: Хэндлеры из tg_bot.default_cp.py зарегистрированы.
+[15.03.26 21:01:41][main.py][150]> C: При работе Кардинала произошла необработанная ошибка.
+[15.03.26 21:01:41][main.py][151]> W: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\util\ssl_.py", line 458, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\util\ssl_.py", line 502, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1071, in _create
+    self.do_handshake()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: _ssl.c:990: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\util\retry.py", line 552, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 407, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 358, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\ЯNPC\Desktop\FunPayCardinal-main\main.py", line 145, in <module>
+    Cardinal(MAIN_CFG, AD_CFG, AR_CFG, RAW_AR_CFG, VERSION).init().run()
+  File "c:\Users\ЯNPC\Desktop\FunPayCardinal-main\cardinal.py", line 659, in init
+    self.telegram.setup_commands()
+  File "c:\Users\ЯNPC\Desktop\FunPayCardinal-main\tg_bot\bot.py", line 1220, in setup_commands
+    self.bot.set_my_commands(commands, language_code=lang)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\telebot\__init__.py", line 4251, in set_my_commands
+    return apihelper.set_my_commands(self.token, commands, scope=scope, language_code=language_code)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\telebot\apihelper.py", line 1245, in set_my_commands
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\telebot\apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\ЯNPC\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)
+[15.03.26 21:01:41][main.py][152]> C: Завершаю программу...
